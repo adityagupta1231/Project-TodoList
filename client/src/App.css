@@ -3,15 +3,15 @@
 body {
   width: 50%;
   margin: 0 auto;
-  background-color: black;
+  background: linear-gradient(90deg, #340c59, #280847, #1d0436, #130225, #090116, #030008, #000001, #000000);
 }
 
 header {
   text-align: center;
 }
 header h1 {
-  font-size: 100px;
-  color:purple;
+  font-size: 70px;
+  color:rgba(239, 236, 236, 0.963);
   font-weight: 800;
 }
 
@@ -83,7 +83,7 @@ article {
 }
 .parent{
   background-color: black;
-  box-shadow: 2px 2px 40px rgb(14 165 233);
+  box-shadow: 2px 2px 40px rgb(62, 11, 90);
   padding-left: 50px;
   border-radius: 20px;
 }
